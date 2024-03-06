@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FragmentsApp</string>
+    <string name="abcd">abcd</string>
+    <string name="users">Список пользователей</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="move_to_b_fragment">move to B fragment</string>
+    <string name="move_to_c_fragment">move to c fragment</string>
+    <string name="move_back">move back</string>
+    <string name="move_to_d_fragment">move to d fragment</string>
+    <string name="move_to_a_fragment">move to a fragment</string>
+    <string name="fragment_d">Fragment D</string>
+    <string name="fragment_c">Fragment C</string>
+    <string name="fragment_b">Fragment B</string>
+    <string name="fragment_a">Fragment A</string>
+</resources>
