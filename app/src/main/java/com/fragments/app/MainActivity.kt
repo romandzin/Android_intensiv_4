@@ -19,7 +19,12 @@ class MainActivity : AppCompatActivity() {
     }
 
    private fun initView() {
-
+       binding.abcdFragmentsButton.setOnClickListener {
+           moveToActivity(ABCDActivity::class.java)
+       }
+       binding.usersFragmentsButton.setOnClickListener {
+           moveToActivity(ContactsActivity::class.java)
+       }
     }
 
     private fun <T> moveToActivity(activity: Class<T>) {
